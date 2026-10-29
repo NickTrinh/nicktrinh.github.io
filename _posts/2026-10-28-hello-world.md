@@ -1,17 +1,17 @@
 ---
 title: Hello World & Setting the Anchor
 date: 2026-10-28 21:00:00 -0400
-categories: [Meta, Engineering]
-tags: [systems, ai, reflections]
+categories: [Meta]
+tags: [reflections, notes]
 ---
 
-Welcome to my personal engineering notebook.
+Welcome.
 
-I'm setting up this space to document technical deep dives, architecture notes, and lessons learned across systems engineering, AI infrastructure, and research.
+I'm setting up this space as an open notebook for everything I'm thinking about, learning, and exploring—not just code.
 
 ### What to Expect
-- **Systems & AI Infra:** Observations on distributed systems, serving pipelines, and release infrastructure.
-- **Context Engineering & Agents:** Practical patterns for directing AI agents, tool use, and context manifests.
-- **Robotics & Perception:** Algorithmic notes from Visual Place Recognition and adaptive thresholding.
+- **Thoughts & Reflections:** Life in NYC, habits, decisions, and personal observations.
+- **Books & Ideas:** Reading notes, perspectives, and things worth remembering.
+- **Tech & Systems:** Software engineering, AI infrastructure, agents, and research notes when they come up.
 
 Stay tuned.

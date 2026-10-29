@@ -7,7 +7,7 @@ title: About
 
 I'm **Nick Trinh**, a CS senior at **Fordham University** in NYC and an incoming Software Engineer at **Google** (Cloud AI & Computing Infrastructure, June 2027).
 
-My technical focus is **AI infrastructure**, **scalable distributed systems**, and **agentic platforms**.
+This site is an open notebook for everything—life in NYC, books, ideas, engineering, and whatever's on my mind.
 
 ---
 
